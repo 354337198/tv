@@ -1,6 +1,4 @@
-CCTV,#genre#
-卫视,#genre#
-NewTV,#genre#
+
 电影,#genre#
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://120.78.6.151:8968/douyu.php?id=4246519
